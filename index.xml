@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Science Portfolio on Colton Behannon</title>
-    <link>https://example.com/</link>
+    <link>https://coltonbehannon.github.io/</link>
     <description>Recent content in Data Science Portfolio on Colton Behannon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Dec 2020 11:00:59 -0400</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Dec 2020 11:00:59 -0400</lastBuildDate><atom:link href="https://coltonbehannon.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MLB Salary Prediction - Pitchers</title>
-      <link>https://example.com/post/project-2/</link>
+      <link>https://coltonbehannon.github.io/post/project-2/</link>
       <pubDate>Sun, 13 Dec 2020 11:00:59 -0400</pubDate>
       
-      <guid>https://example.com/post/project-2/</guid>
+      <guid>https://coltonbehannon.github.io/post/project-2/</guid>
       <description>Uses the stats recorded for pitchers, from 2003 to 2016, to classify their salary bracket based on their performance using several machine learning techniques.    The full report</description>
     </item>
     
     <item>
       <title>League of Legends Victory Analysis</title>
-      <link>https://example.com/post/project-1/</link>
+      <link>https://coltonbehannon.github.io/post/project-1/</link>
       <pubDate>Mon, 19 Oct 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://example.com/post/project-1/</guid>
+      <guid>https://coltonbehannon.github.io/post/project-1/</guid>
       <description>Built a k-nearest neighbor classifier to predict the victorious team in a League of Legends match based on the first 10 minutes of gameplay. This project was completed using R.    The full report</description>
     </item>
     
     <item>
       <title>Housing Price Analysis</title>
-      <link>https://example.com/post/project-3/</link>
+      <link>https://coltonbehannon.github.io/post/project-3/</link>
       <pubDate>Mon, 20 Apr 2020 11:13:32 -0400</pubDate>
       
-      <guid>https://example.com/post/project-3/</guid>
+      <guid>https://coltonbehannon.github.io/post/project-3/</guid>
       <description>Built several models within SAS to come up with the best framework for estimating the real cost of a home so that no money is left on the table when selling your home. This project was completed using SAS.    The full report</description>
     </item>
     
     <item>
       <title>Python Instructional Projects</title>
-      <link>https://example.com/post/python-projects/</link>
+      <link>https://coltonbehannon.github.io/post/python-projects/</link>
       <pubDate>Wed, 15 Apr 2020 11:14:48 -0400</pubDate>
       
-      <guid>https://example.com/post/python-projects/</guid>
+      <guid>https://coltonbehannon.github.io/post/python-projects/</guid>
       <description>While making my way through undergrad I taught coding to hundreds of students and built up a decent set of projects for beginners to try out. I love to share these in case others might make use of them or simply want to check them out.
 To-Do List
  This project was great for getting students excited about coding by creating a relatively large project that they could actually use. This was usually the first big project after going over the basics with students.</description>
@@ -47,10 +47,10 @@ To-Do List
     
     <item>
       <title>Contact</title>
-      <link>https://example.com/contact/</link>
+      <link>https://coltonbehannon.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/contact/</guid>
+      <guid>https://coltonbehannon.github.io/contact/</guid>
       <description>Feel free to connect with me below.
    Platform URL     LinkedIn: https://www.linkedin.com/in/coltonbehannon/   GitHub: https://github.com/coltonbehannon   Email: colton.behannon@gmail.com    </description>
     </item>
